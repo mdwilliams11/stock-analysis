@@ -30,4 +30,4 @@ The VBA macros we wrote allowed us to quickly analyze the performance of various
 
 To run the macro even quicker, we refactored the code to run more efficiently. Refactoring the code made the macro execute much more quickly. Ideally, refactoring the code would make it more efficient, more clear, and less prone to human error. While refactoring code is good, you always run the risk of breaking code that previously worked correctly.
 
-Refactoring the stock analysis macro did, in fact, make the code run more quickly. It's possible that the refactored code would be less clear to someone else who had to work with the code in the future. This could cause difficulties if someone new wa
+Refactoring the stock analysis macro did, in fact, make the code run more quickly. It's possible that the refactored code would be less clear to someone else who had to work with the code in the future. This could cause difficulties if someone new wanted to take the code and add more stocks or add more metrics to analyze the stocks with.
