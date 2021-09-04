@@ -16,7 +16,7 @@ Analysis was conducted within this [Macro-Enabled Excel Workbook](https://raw.gi
 
 
 
-The VBA code for the stock analysis macro can be found [HERE]((https://raw.githubusercontent.com/mdwilliams11/stock-analysis/main/VBA_Challenge.xlsm)
+The VBA code for the stock analysis macro can be found ![HERE]((https://raw.githubusercontent.com/mdwilliams11/stock-analysis/main/VBA_Challenge.xlsm)
 
 
 ## Summary
