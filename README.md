@@ -7,7 +7,7 @@ Analysis was conducted within this [Macro-Enabled Excel Workbook](https://raw.gi
 
 ## Results
 
-Almost all of the green energy stocks analyzed performed well in 2017. Almost none of the green stocks performed well in 2018. The only stock with a consistent, good rate of retun was **ENPH**. It seems the green stocks are fairly volatile 
+Almost all of the green energy stocks analyzed performed well in 2017. Almost none of the green stocks performed well in 2018. The only stock with a consistent, good rate of retun was **ENPH**. It seems the green stocks are fairly volatile. 
 
 
 Below is a screenshot of the returns from 2017.
@@ -26,3 +26,8 @@ The refactored VBA code for the stock analysis macro can be found [HERE]((https:
 
 ## Summary
 
+The VBA macros we wrote allowed us to quickly analyze the performance of various stocks over multiple years. Using Excel and VBA we created a convenient way for Steve to look at the performance of these green energy stocks.
+
+To run the macro even quicker, we refactored the code to run more efficiently. Refactoring the code made the macro execute much more quickly. Ideally, refactoring the code would make it more efficient, more clear, and less prone to human error. While refactoring code is good, you always run the risk of breaking code that previously worked correctly.
+
+Refactoring the stock analysis macro did, in fact, make the code run more quickly. It's possible that the refactored code would be less clear to someone else who had to work with the code in the future. This could cause difficulties if someone new wa
